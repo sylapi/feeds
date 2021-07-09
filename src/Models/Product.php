@@ -104,9 +104,9 @@ class Product implements ProductSerializer
     private $unitPricingBaseMeasure;
 
     /**
-     * @Serializer\Type("string")
+     * @Serializer\Type("array<string, string>")
      */
-    private $productCategory; 
+    private $productCategory;
 
     /**
      * @Serializer\Type("array<string>")
@@ -688,6 +688,18 @@ class Product implements ProductSerializer
     public function setProductCategory($productCategory)
     {
         $this->productCategory = $productCategory;
+
+        return $this;
+    }
+
+    /**
+     * Add the value of productCategory
+     *
+     * @return  self
+     */ 
+    public function addProductCategory($productClass, $productCategory)
+    {
+        $this->productCategory[$productClass] = $productCategory;
 
         return $this;
     }
