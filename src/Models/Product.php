@@ -104,7 +104,7 @@ class Product implements ProductSerializer
     private $unitPricingBaseMeasure;
 
     /**
-     * @Serializer\Type("array<string, string>")
+     * @Serializer\Type("array<string,string>")
      * @Serializer\XmlKeyValuePairs
      */
     private $productCategory;

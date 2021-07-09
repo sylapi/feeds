@@ -87,18 +87,20 @@ class FeedCreator
     {
         $serializer = $this->getSerializer();
         $item = ($this->getFeed()->getProductInstance())->make($product);
+
         $content = str_replace(
             '<?xml version="1.0" encoding="UTF-8"?>', 
             '', 
             $serializer->serialize($item, 'xml')
         );
-
+        
         $doc = $this->getFeed()->getDocument();
         $f = $doc->createDocumentFragment();
         $f->appendXML($content);
         $mainXMLElement = $this->getFeed()->getMainXmlElement();
         $mainXMLElement->appendChild($f);
         $this->getFeed()->setMainXmlElement($mainXMLElement);
+    
         return $this;
     }
 
