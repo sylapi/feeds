@@ -105,6 +105,7 @@ class Product implements ProductSerializer
 
     /**
      * @Serializer\Type("array<string, string>")
+     * @Serializer\XmlKeyValuePairs
      */
     private $productCategory;
 
