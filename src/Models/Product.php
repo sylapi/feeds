@@ -246,9 +246,14 @@ class Product implements ProductSerializer
     private $shippingLabel;
 
     /**
-     * @Serializer\Type("string")
+     * @Serializer\Type("double")
      */
     private $shippingWeight;
+
+    /**
+     * @Serializer\Type("string")
+     */
+    private $shippingWeightUnit;
 
     /**
      * @Serializer\Type("string")
@@ -1265,6 +1270,26 @@ class Product implements ProductSerializer
 
         return $this;
     }
+
+    /**
+     * Get the value of shippingWeightUnit
+     */ 
+    public function getShippingWeightUnit()
+    {
+        return $this->shippingWeightUnit;
+    }
+
+    /**
+     * Set the value of shippingWeightUnit
+     *
+     * @return  self
+     */ 
+    public function setShippingWeightUnit($shippingWeightUnit)
+    {
+        $this->shippingWeightUnit = $shippingWeightUnit;
+
+        return $this;
+    }    
 
     /**
      * Get the value of shippingLength
