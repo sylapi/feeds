@@ -9,6 +9,7 @@ class FeedReader
 {
     private $streamer;
     private $filePath;
+    private $serializer;
 
     public function __construct($filePath)
     {

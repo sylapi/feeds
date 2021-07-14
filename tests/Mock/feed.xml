@@ -1,0 +1,818 @@
+<?xml version="1.0"?>
+<results>
+<item>
+  <id><![CDATA[50f6c285-fec3-33e9-858c-75874489451c]]></id>
+  <title><![CDATA[Amet qui maxime dicta similique suscipit autem.]]></title>
+  <description><![CDATA[Dicta molestiae voluptas porro error.]]></description>
+  <link><![CDATA[http://prosacco.biz/]]></link>
+  <image_link><![CDATA[https://lorempixel.com/640/480/?45155]]></image_link>
+  <mobile_link><![CDATA[http://www.monahan.info/doloribus-vel-quia-iure-numquam-asperiores-reiciendis]]></mobile_link>
+  <additional_image_links>
+    <entry><![CDATA[https://lorempixel.com/640/480/?95736]]></entry>
+    <entry><![CDATA[https://lorempixel.com/640/480/?97628]]></entry>
+    <entry><![CDATA[https://lorempixel.com/640/480/?83128]]></entry>
+    <entry><![CDATA[https://lorempixel.com/640/480/?29686]]></entry>
+  </additional_image_links>
+  <availability><![CDATA[in_stock]]></availability>
+  <availability_date><![CDATA[1981-08-30T20:47:01+02:00]]></availability_date>
+  <currency><![CDATA[PLN]]></currency>
+  <cost_of_goods_sold>10.21</cost_of_goods_sold>
+  <expiration_date><![CDATA[1984-03-15T04:38:01+01:00]]></expiration_date>
+  <price>11.01</price>
+  <sale_price>9.02</sale_price>
+  <sale_price_effective_date_start><![CDATA[1989-09-06T23:33:30+02:00]]></sale_price_effective_date_start>
+  <sale_price_effective_date_end><![CDATA[1976-08-16T05:13:59+01:00]]></sale_price_effective_date_end>
+  <unit_pricing_measure><![CDATA[750 ml]]></unit_pricing_measure>
+  <unit_pricing_base_measure><![CDATA[1 ml]]></unit_pricing_base_measure>
+  <product_category>
+    <google><![CDATA[2271]]></google>
+    <seznam><![CDATA[1234]]></seznam>
+    <nokaut><![CDATA[Prezenty]]></nokaut>
+    <skapiec><![CDATA[Komputery / Podzespoły komputerowe / Karty graficzne / ATI / Karty graficzne ATI 9xxx]]></skapiec>
+  </product_category>
+  <product_types>
+    <google>
+      <entry><![CDATA[Apparel]]></entry>
+      <entry><![CDATA[Accessories]]></entry>
+    </google>
+    <seznam>
+      <entry><![CDATA[Apparel]]></entry>
+      <entry><![CDATA[Dresses]]></entry>
+    </seznam>
+    <nokaut>
+      <entry><![CDATA[Dresses]]></entry>
+    </nokaut>
+    <skapiec>
+      <entry><![CDATA[Apparel]]></entry>
+      <entry><![CDATA[Dresses]]></entry>
+    </skapiec>
+  </product_types>
+  <canonical_link><![CDATA[https://www.reichel.biz/quod-exercitationem-consequatur-necessitatibus-et-velit-incidunt-sapiente]]></canonical_link>
+  <manufacturer><![CDATA[ABC Manufacturer]]></manufacturer>
+  <brand><![CDATA[Brand XYZ]]></brand>
+  <gtin><![CDATA[3234567890126]]></gtin>
+  <mpn><![CDATA[GO12345OOGLE]]></mpn>
+  <identifier_exists>true</identifier_exists>
+  <condition><![CDATA[new]]></condition>
+  <adult>true</adult>
+  <multipack>6</multipack>
+  <bundle>false</bundle>
+  <age_group>true</age_group>
+  <color><![CDATA[black]]></color>
+  <size_types>
+    <entry><![CDATA[petite]]></entry>
+    <entry><![CDATA[maternity]]></entry>
+  </size_types>
+  <item_group_id><![CDATA[gid-12345]]></item_group_id>
+  <custom_labels>
+    <entry><![CDATA[summer]]></entry>
+    <entry><![CDATA[sale]]></entry>
+    <entry><![CDATA[test]]></entry>
+  </custom_labels>
+  <excluded_destinations>
+    <entry><![CDATA[Buy on listings]]></entry>
+    <entry><![CDATA[Local inventory ads]]></entry>
+  </excluded_destinations>
+  <included_destinations>
+    <entry><![CDATA[Shopping ads]]></entry>
+    <entry><![CDATA[Free local listings]]></entry>
+  </included_destinations>
+  <shipping>
+    <country><![CDATA[PL]]></country>
+    <region><![CDATA[Lubuskie]]></region>
+    <service><![CDATA[DPD_PICKUP]]></service>
+    <currency><![CDATA[PLN]]></currency>
+    <price>12.22</price>
+    <price_cod>15.55</price_cod>
+    <min_handling_time>1</min_handling_time>
+    <max_handling_time>4</max_handling_time>
+    <min_transit_time>2</min_transit_time>
+    <max_transit_time>5</max_transit_time>
+  </shipping>
+  <shipping_weight>3.04</shipping_weight>
+  <shipping_weight_unit><![CDATA[kg]]></shipping_weight_unit>
+  <min_handling_time>3</min_handling_time>
+  <max_handling_time>14</max_handling_time>
+  <tax>
+    <country><![CDATA[PL]]></country>
+    <region><![CDATA[Lubuskie]]></region>
+    <rate>5.0</rate>
+    <tax_ship>true</tax_ship>
+  </tax>
+  <tax_category><![CDATA[Clothes]]></tax_category>
+  <product_details>
+    <google>
+      <entry>
+        <section_name><![CDATA[Main]]></section_name>
+        <attribute_name><![CDATA[name_7705]]></attribute_name>
+        <attribute_value><![CDATA[Value #5569]]></attribute_value>
+      </entry>
+      <entry>
+        <section_name><![CDATA[Main]]></section_name>
+        <attribute_name><![CDATA[name_7476]]></attribute_name>
+        <attribute_value><![CDATA[Value #7592]]></attribute_value>
+      </entry>
+      <entry>
+        <section_name><![CDATA[Main]]></section_name>
+        <attribute_name><![CDATA[name_1410]]></attribute_name>
+        <attribute_value><![CDATA[Value #1652]]></attribute_value>
+      </entry>
+      <entry>
+        <section_name><![CDATA[Main]]></section_name>
+        <attribute_name><![CDATA[name_4921]]></attribute_name>
+        <attribute_value><![CDATA[Value #5927]]></attribute_value>
+      </entry>
+    </google>
+    <seznam>
+      <entry>
+        <section_name><![CDATA[Main]]></section_name>
+        <attribute_name><![CDATA[name_7705]]></attribute_name>
+        <attribute_value><![CDATA[Value #5569]]></attribute_value>
+      </entry>
+      <entry>
+        <section_name><![CDATA[Main]]></section_name>
+        <attribute_name><![CDATA[name_7476]]></attribute_name>
+        <attribute_value><![CDATA[Value #7592]]></attribute_value>
+      </entry>
+      <entry>
+        <section_name><![CDATA[Main]]></section_name>
+        <attribute_name><![CDATA[name_1410]]></attribute_name>
+        <attribute_value><![CDATA[Value #1652]]></attribute_value>
+      </entry>
+      <entry>
+        <section_name><![CDATA[Main]]></section_name>
+        <attribute_name><![CDATA[name_4921]]></attribute_name>
+        <attribute_value><![CDATA[Value #5927]]></attribute_value>
+      </entry>
+    </seznam>
+    <nokaut>
+      <entry>
+        <section_name><![CDATA[Main]]></section_name>
+        <attribute_name><![CDATA[name_7705]]></attribute_name>
+        <attribute_value><![CDATA[Value #5569]]></attribute_value>
+      </entry>
+      <entry>
+        <section_name><![CDATA[Main]]></section_name>
+        <attribute_name><![CDATA[name_7476]]></attribute_name>
+        <attribute_value><![CDATA[Value #7592]]></attribute_value>
+      </entry>
+      <entry>
+        <section_name><![CDATA[Main]]></section_name>
+        <attribute_name><![CDATA[name_1410]]></attribute_name>
+        <attribute_value><![CDATA[Value #1652]]></attribute_value>
+      </entry>
+      <entry>
+        <section_name><![CDATA[Main]]></section_name>
+        <attribute_name><![CDATA[name_4921]]></attribute_name>
+        <attribute_value><![CDATA[Value #5927]]></attribute_value>
+      </entry>
+    </nokaut>
+    <skapiec>
+      <entry>
+        <section_name><![CDATA[Main]]></section_name>
+        <attribute_name><![CDATA[name_7705]]></attribute_name>
+        <attribute_value><![CDATA[Value #5569]]></attribute_value>
+      </entry>
+      <entry>
+        <section_name><![CDATA[Main]]></section_name>
+        <attribute_name><![CDATA[name_7476]]></attribute_name>
+        <attribute_value><![CDATA[Value #7592]]></attribute_value>
+      </entry>
+      <entry>
+        <section_name><![CDATA[Main]]></section_name>
+        <attribute_name><![CDATA[name_1410]]></attribute_name>
+        <attribute_value><![CDATA[Value #1652]]></attribute_value>
+      </entry>
+      <entry>
+        <section_name><![CDATA[Main]]></section_name>
+        <attribute_name><![CDATA[name_4921]]></attribute_name>
+        <attribute_value><![CDATA[Value #5927]]></attribute_value>
+      </entry>
+    </skapiec>
+  </product_details>
+  <shopping_ads_excluded_country>
+    <entry><![CDATA[CH]]></entry>
+    <entry><![CDATA[AT]]></entry>
+  </shopping_ads_excluded_country>
+  <ships_from_country><![CDATA[PL]]></ships_from_country>
+  <product_highlights>
+    <entry><![CDATA[Cum eaque numquam aliquid voluptas.]]></entry>
+    <entry><![CDATA[Eos tempora eveniet fugiat aut alias.]]></entry>
+    <entry><![CDATA[Delectus fuga cum voluptatum fuga at voluptatem rerum commodi.]]></entry>
+  </product_highlights>
+  <quantity>3</quantity>
+  <warranty><![CDATA[24 months]]></warranty>
+</item>
+
+<item>
+  <id><![CDATA[059fab18-9197-36a0-8e0a-76671a017d99]]></id>
+  <title><![CDATA[Optio cumque laboriosam aut ipsam nihil voluptatem.]]></title>
+  <description><![CDATA[Voluptate doloremque quas aut.]]></description>
+  <link><![CDATA[http://rutherford.net/sequi-ipsam-nihil-rerum-omnis.html]]></link>
+  <image_link><![CDATA[https://lorempixel.com/640/480/?68139]]></image_link>
+  <mobile_link><![CDATA[http://www.rutherford.biz/repellat-illo-quidem-nemo-numquam-et-aspernatur-repellendus]]></mobile_link>
+  <additional_image_links>
+    <entry><![CDATA[https://lorempixel.com/640/480/?41865]]></entry>
+    <entry><![CDATA[https://lorempixel.com/640/480/?54317]]></entry>
+    <entry><![CDATA[https://lorempixel.com/640/480/?98335]]></entry>
+    <entry><![CDATA[https://lorempixel.com/640/480/?98792]]></entry>
+  </additional_image_links>
+  <availability><![CDATA[in_stock]]></availability>
+  <availability_date><![CDATA[2007-01-11T11:06:45+01:00]]></availability_date>
+  <currency><![CDATA[PLN]]></currency>
+  <cost_of_goods_sold>10.21</cost_of_goods_sold>
+  <expiration_date><![CDATA[2015-11-18T15:49:18+01:00]]></expiration_date>
+  <price>11.01</price>
+  <sale_price>9.02</sale_price>
+  <sale_price_effective_date_start><![CDATA[1992-07-29T05:44:02+02:00]]></sale_price_effective_date_start>
+  <sale_price_effective_date_end><![CDATA[1974-11-11T23:21:00+01:00]]></sale_price_effective_date_end>
+  <unit_pricing_measure><![CDATA[750 ml]]></unit_pricing_measure>
+  <unit_pricing_base_measure><![CDATA[1 ml]]></unit_pricing_base_measure>
+  <product_category>
+    <google><![CDATA[2271]]></google>
+    <seznam><![CDATA[1234]]></seznam>
+    <nokaut><![CDATA[Prezenty]]></nokaut>
+    <skapiec><![CDATA[Komputery / Podzespoły komputerowe / Karty graficzne / ATI / Karty graficzne ATI 9xxx]]></skapiec>
+  </product_category>
+  <product_types>
+    <google>
+      <entry><![CDATA[Apparel]]></entry>
+      <entry><![CDATA[Accessories]]></entry>
+    </google>
+    <seznam>
+      <entry><![CDATA[Apparel]]></entry>
+      <entry><![CDATA[Dresses]]></entry>
+    </seznam>
+    <nokaut>
+      <entry><![CDATA[Dresses]]></entry>
+    </nokaut>
+    <skapiec>
+      <entry><![CDATA[Apparel]]></entry>
+      <entry><![CDATA[Dresses]]></entry>
+    </skapiec>
+  </product_types>
+  <canonical_link><![CDATA[http://www.kub.biz/asperiores-consequatur-necessitatibus-nam-sint-ex]]></canonical_link>
+  <manufacturer><![CDATA[ABC Manufacturer]]></manufacturer>
+  <brand><![CDATA[Brand XYZ]]></brand>
+  <gtin><![CDATA[3234567890126]]></gtin>
+  <mpn><![CDATA[GO12345OOGLE]]></mpn>
+  <identifier_exists>true</identifier_exists>
+  <condition><![CDATA[new]]></condition>
+  <adult>true</adult>
+  <multipack>6</multipack>
+  <bundle>false</bundle>
+  <age_group>true</age_group>
+  <color><![CDATA[black]]></color>
+  <size_types>
+    <entry><![CDATA[petite]]></entry>
+    <entry><![CDATA[maternity]]></entry>
+  </size_types>
+  <item_group_id><![CDATA[gid-12345]]></item_group_id>
+  <custom_labels>
+    <entry><![CDATA[summer]]></entry>
+    <entry><![CDATA[sale]]></entry>
+    <entry><![CDATA[test]]></entry>
+  </custom_labels>
+  <excluded_destinations>
+    <entry><![CDATA[Buy on listings]]></entry>
+    <entry><![CDATA[Local inventory ads]]></entry>
+  </excluded_destinations>
+  <included_destinations>
+    <entry><![CDATA[Shopping ads]]></entry>
+    <entry><![CDATA[Free local listings]]></entry>
+  </included_destinations>
+  <shipping>
+    <country><![CDATA[PL]]></country>
+    <region><![CDATA[Lubuskie]]></region>
+    <service><![CDATA[DPD_PICKUP]]></service>
+    <currency><![CDATA[PLN]]></currency>
+    <price>12.22</price>
+    <price_cod>15.55</price_cod>
+    <min_handling_time>1</min_handling_time>
+    <max_handling_time>4</max_handling_time>
+    <min_transit_time>2</min_transit_time>
+    <max_transit_time>5</max_transit_time>
+  </shipping>
+  <shipping_weight>3.04</shipping_weight>
+  <shipping_weight_unit><![CDATA[kg]]></shipping_weight_unit>
+  <min_handling_time>3</min_handling_time>
+  <max_handling_time>14</max_handling_time>
+  <tax>
+    <country><![CDATA[PL]]></country>
+    <region><![CDATA[Lubuskie]]></region>
+    <rate>5.0</rate>
+    <tax_ship>true</tax_ship>
+  </tax>
+  <tax_category><![CDATA[Clothes]]></tax_category>
+  <product_details>
+    <google>
+      <entry>
+        <section_name><![CDATA[Main]]></section_name>
+        <attribute_name><![CDATA[name_7437]]></attribute_name>
+        <attribute_value><![CDATA[Value #9039]]></attribute_value>
+      </entry>
+      <entry>
+        <section_name><![CDATA[Main]]></section_name>
+        <attribute_name><![CDATA[name_8284]]></attribute_name>
+        <attribute_value><![CDATA[Value #1076]]></attribute_value>
+      </entry>
+      <entry>
+        <section_name><![CDATA[Main]]></section_name>
+        <attribute_name><![CDATA[name_1194]]></attribute_name>
+        <attribute_value><![CDATA[Value #1905]]></attribute_value>
+      </entry>
+      <entry>
+        <section_name><![CDATA[Main]]></section_name>
+        <attribute_name><![CDATA[name_9706]]></attribute_name>
+        <attribute_value><![CDATA[Value #2018]]></attribute_value>
+      </entry>
+    </google>
+    <seznam>
+      <entry>
+        <section_name><![CDATA[Main]]></section_name>
+        <attribute_name><![CDATA[name_7437]]></attribute_name>
+        <attribute_value><![CDATA[Value #9039]]></attribute_value>
+      </entry>
+      <entry>
+        <section_name><![CDATA[Main]]></section_name>
+        <attribute_name><![CDATA[name_8284]]></attribute_name>
+        <attribute_value><![CDATA[Value #1076]]></attribute_value>
+      </entry>
+      <entry>
+        <section_name><![CDATA[Main]]></section_name>
+        <attribute_name><![CDATA[name_1194]]></attribute_name>
+        <attribute_value><![CDATA[Value #1905]]></attribute_value>
+      </entry>
+      <entry>
+        <section_name><![CDATA[Main]]></section_name>
+        <attribute_name><![CDATA[name_9706]]></attribute_name>
+        <attribute_value><![CDATA[Value #2018]]></attribute_value>
+      </entry>
+    </seznam>
+    <nokaut>
+      <entry>
+        <section_name><![CDATA[Main]]></section_name>
+        <attribute_name><![CDATA[name_7437]]></attribute_name>
+        <attribute_value><![CDATA[Value #9039]]></attribute_value>
+      </entry>
+      <entry>
+        <section_name><![CDATA[Main]]></section_name>
+        <attribute_name><![CDATA[name_8284]]></attribute_name>
+        <attribute_value><![CDATA[Value #1076]]></attribute_value>
+      </entry>
+      <entry>
+        <section_name><![CDATA[Main]]></section_name>
+        <attribute_name><![CDATA[name_1194]]></attribute_name>
+        <attribute_value><![CDATA[Value #1905]]></attribute_value>
+      </entry>
+      <entry>
+        <section_name><![CDATA[Main]]></section_name>
+        <attribute_name><![CDATA[name_9706]]></attribute_name>
+        <attribute_value><![CDATA[Value #2018]]></attribute_value>
+      </entry>
+    </nokaut>
+    <skapiec>
+      <entry>
+        <section_name><![CDATA[Main]]></section_name>
+        <attribute_name><![CDATA[name_7437]]></attribute_name>
+        <attribute_value><![CDATA[Value #9039]]></attribute_value>
+      </entry>
+      <entry>
+        <section_name><![CDATA[Main]]></section_name>
+        <attribute_name><![CDATA[name_8284]]></attribute_name>
+        <attribute_value><![CDATA[Value #1076]]></attribute_value>
+      </entry>
+      <entry>
+        <section_name><![CDATA[Main]]></section_name>
+        <attribute_name><![CDATA[name_1194]]></attribute_name>
+        <attribute_value><![CDATA[Value #1905]]></attribute_value>
+      </entry>
+      <entry>
+        <section_name><![CDATA[Main]]></section_name>
+        <attribute_name><![CDATA[name_9706]]></attribute_name>
+        <attribute_value><![CDATA[Value #2018]]></attribute_value>
+      </entry>
+    </skapiec>
+  </product_details>
+  <shopping_ads_excluded_country>
+    <entry><![CDATA[CH]]></entry>
+    <entry><![CDATA[AT]]></entry>
+  </shopping_ads_excluded_country>
+  <ships_from_country><![CDATA[PL]]></ships_from_country>
+  <product_highlights>
+    <entry><![CDATA[Aliquam ut qui iste facilis eum aut.]]></entry>
+    <entry><![CDATA[Sunt voluptate aut libero.]]></entry>
+    <entry><![CDATA[Atque sapiente asperiores ea.]]></entry>
+  </product_highlights>
+  <quantity>3</quantity>
+  <warranty><![CDATA[24 months]]></warranty>
+</item>
+
+<item>
+  <id><![CDATA[50f6c285-fec3-33e9-858c-75874489451c]]></id>
+  <title><![CDATA[Amet qui maxime dicta similique suscipit autem.]]></title>
+  <description><![CDATA[Dicta molestiae voluptas porro error.]]></description>
+  <link><![CDATA[http://prosacco.biz/]]></link>
+  <image_link><![CDATA[https://lorempixel.com/640/480/?45155]]></image_link>
+  <mobile_link><![CDATA[http://www.monahan.info/doloribus-vel-quia-iure-numquam-asperiores-reiciendis]]></mobile_link>
+  <additional_image_links>
+    <entry><![CDATA[https://lorempixel.com/640/480/?95736]]></entry>
+    <entry><![CDATA[https://lorempixel.com/640/480/?97628]]></entry>
+    <entry><![CDATA[https://lorempixel.com/640/480/?83128]]></entry>
+    <entry><![CDATA[https://lorempixel.com/640/480/?29686]]></entry>
+  </additional_image_links>
+  <availability><![CDATA[in_stock]]></availability>
+  <availability_date><![CDATA[1981-08-30T20:47:01+02:00]]></availability_date>
+  <currency><![CDATA[PLN]]></currency>
+  <cost_of_goods_sold>10.21</cost_of_goods_sold>
+  <expiration_date><![CDATA[1984-03-15T04:38:01+01:00]]></expiration_date>
+  <price>11.01</price>
+  <sale_price>9.02</sale_price>
+  <sale_price_effective_date_start><![CDATA[1989-09-06T23:33:30+02:00]]></sale_price_effective_date_start>
+  <sale_price_effective_date_end><![CDATA[1976-08-16T05:13:59+01:00]]></sale_price_effective_date_end>
+  <unit_pricing_measure><![CDATA[750 ml]]></unit_pricing_measure>
+  <unit_pricing_base_measure><![CDATA[1 ml]]></unit_pricing_base_measure>
+  <product_category>
+    <google><![CDATA[2271]]></google>
+    <seznam><![CDATA[1234]]></seznam>
+    <nokaut><![CDATA[Prezenty]]></nokaut>
+    <skapiec><![CDATA[Komputery / Podzespoły komputerowe / Karty graficzne / ATI / Karty graficzne ATI 9xxx]]></skapiec>
+  </product_category>
+  <product_types>
+    <google>
+      <entry><![CDATA[Apparel]]></entry>
+      <entry><![CDATA[Accessories]]></entry>
+    </google>
+    <seznam>
+      <entry><![CDATA[Apparel]]></entry>
+      <entry><![CDATA[Dresses]]></entry>
+    </seznam>
+    <nokaut>
+      <entry><![CDATA[Dresses]]></entry>
+    </nokaut>
+    <skapiec>
+      <entry><![CDATA[Apparel]]></entry>
+      <entry><![CDATA[Dresses]]></entry>
+    </skapiec>
+  </product_types>
+  <canonical_link><![CDATA[https://www.reichel.biz/quod-exercitationem-consequatur-necessitatibus-et-velit-incidunt-sapiente]]></canonical_link>
+  <manufacturer><![CDATA[ABC Manufacturer]]></manufacturer>
+  <brand><![CDATA[Brand XYZ]]></brand>
+  <gtin><![CDATA[3234567890126]]></gtin>
+  <mpn><![CDATA[GO12345OOGLE]]></mpn>
+  <identifier_exists>true</identifier_exists>
+  <condition><![CDATA[new]]></condition>
+  <adult>true</adult>
+  <multipack>6</multipack>
+  <bundle>false</bundle>
+  <age_group>true</age_group>
+  <color><![CDATA[black]]></color>
+  <size_types>
+    <entry><![CDATA[petite]]></entry>
+    <entry><![CDATA[maternity]]></entry>
+  </size_types>
+  <item_group_id><![CDATA[gid-12345]]></item_group_id>
+  <custom_labels>
+    <entry><![CDATA[summer]]></entry>
+    <entry><![CDATA[sale]]></entry>
+    <entry><![CDATA[test]]></entry>
+  </custom_labels>
+  <excluded_destinations>
+    <entry><![CDATA[Buy on listings]]></entry>
+    <entry><![CDATA[Local inventory ads]]></entry>
+  </excluded_destinations>
+  <included_destinations>
+    <entry><![CDATA[Shopping ads]]></entry>
+    <entry><![CDATA[Free local listings]]></entry>
+  </included_destinations>
+  <shipping>
+    <country><![CDATA[PL]]></country>
+    <region><![CDATA[Lubuskie]]></region>
+    <service><![CDATA[DPD_PICKUP]]></service>
+    <currency><![CDATA[PLN]]></currency>
+    <price>12.22</price>
+    <price_cod>15.55</price_cod>
+    <min_handling_time>1</min_handling_time>
+    <max_handling_time>4</max_handling_time>
+    <min_transit_time>2</min_transit_time>
+    <max_transit_time>5</max_transit_time>
+  </shipping>
+  <shipping_weight>3.04</shipping_weight>
+  <shipping_weight_unit><![CDATA[kg]]></shipping_weight_unit>
+  <min_handling_time>3</min_handling_time>
+  <max_handling_time>14</max_handling_time>
+  <tax>
+    <country><![CDATA[PL]]></country>
+    <region><![CDATA[Lubuskie]]></region>
+    <rate>5.0</rate>
+    <tax_ship>true</tax_ship>
+  </tax>
+  <tax_category><![CDATA[Clothes]]></tax_category>
+  <product_details>
+    <google>
+      <entry>
+        <section_name><![CDATA[Main]]></section_name>
+        <attribute_name><![CDATA[name_7705]]></attribute_name>
+        <attribute_value><![CDATA[Value #5569]]></attribute_value>
+      </entry>
+      <entry>
+        <section_name><![CDATA[Main]]></section_name>
+        <attribute_name><![CDATA[name_7476]]></attribute_name>
+        <attribute_value><![CDATA[Value #7592]]></attribute_value>
+      </entry>
+      <entry>
+        <section_name><![CDATA[Main]]></section_name>
+        <attribute_name><![CDATA[name_1410]]></attribute_name>
+        <attribute_value><![CDATA[Value #1652]]></attribute_value>
+      </entry>
+      <entry>
+        <section_name><![CDATA[Main]]></section_name>
+        <attribute_name><![CDATA[name_4921]]></attribute_name>
+        <attribute_value><![CDATA[Value #5927]]></attribute_value>
+      </entry>
+    </google>
+    <seznam>
+      <entry>
+        <section_name><![CDATA[Main]]></section_name>
+        <attribute_name><![CDATA[name_7705]]></attribute_name>
+        <attribute_value><![CDATA[Value #5569]]></attribute_value>
+      </entry>
+      <entry>
+        <section_name><![CDATA[Main]]></section_name>
+        <attribute_name><![CDATA[name_7476]]></attribute_name>
+        <attribute_value><![CDATA[Value #7592]]></attribute_value>
+      </entry>
+      <entry>
+        <section_name><![CDATA[Main]]></section_name>
+        <attribute_name><![CDATA[name_1410]]></attribute_name>
+        <attribute_value><![CDATA[Value #1652]]></attribute_value>
+      </entry>
+      <entry>
+        <section_name><![CDATA[Main]]></section_name>
+        <attribute_name><![CDATA[name_4921]]></attribute_name>
+        <attribute_value><![CDATA[Value #5927]]></attribute_value>
+      </entry>
+    </seznam>
+    <nokaut>
+      <entry>
+        <section_name><![CDATA[Main]]></section_name>
+        <attribute_name><![CDATA[name_7705]]></attribute_name>
+        <attribute_value><![CDATA[Value #5569]]></attribute_value>
+      </entry>
+      <entry>
+        <section_name><![CDATA[Main]]></section_name>
+        <attribute_name><![CDATA[name_7476]]></attribute_name>
+        <attribute_value><![CDATA[Value #7592]]></attribute_value>
+      </entry>
+      <entry>
+        <section_name><![CDATA[Main]]></section_name>
+        <attribute_name><![CDATA[name_1410]]></attribute_name>
+        <attribute_value><![CDATA[Value #1652]]></attribute_value>
+      </entry>
+      <entry>
+        <section_name><![CDATA[Main]]></section_name>
+        <attribute_name><![CDATA[name_4921]]></attribute_name>
+        <attribute_value><![CDATA[Value #5927]]></attribute_value>
+      </entry>
+    </nokaut>
+    <skapiec>
+      <entry>
+        <section_name><![CDATA[Main]]></section_name>
+        <attribute_name><![CDATA[name_7705]]></attribute_name>
+        <attribute_value><![CDATA[Value #5569]]></attribute_value>
+      </entry>
+      <entry>
+        <section_name><![CDATA[Main]]></section_name>
+        <attribute_name><![CDATA[name_7476]]></attribute_name>
+        <attribute_value><![CDATA[Value #7592]]></attribute_value>
+      </entry>
+      <entry>
+        <section_name><![CDATA[Main]]></section_name>
+        <attribute_name><![CDATA[name_1410]]></attribute_name>
+        <attribute_value><![CDATA[Value #1652]]></attribute_value>
+      </entry>
+      <entry>
+        <section_name><![CDATA[Main]]></section_name>
+        <attribute_name><![CDATA[name_4921]]></attribute_name>
+        <attribute_value><![CDATA[Value #5927]]></attribute_value>
+      </entry>
+    </skapiec>
+  </product_details>
+  <shopping_ads_excluded_country>
+    <entry><![CDATA[CH]]></entry>
+    <entry><![CDATA[AT]]></entry>
+  </shopping_ads_excluded_country>
+  <ships_from_country><![CDATA[PL]]></ships_from_country>
+  <product_highlights>
+    <entry><![CDATA[Cum eaque numquam aliquid voluptas.]]></entry>
+    <entry><![CDATA[Eos tempora eveniet fugiat aut alias.]]></entry>
+    <entry><![CDATA[Delectus fuga cum voluptatum fuga at voluptatem rerum commodi.]]></entry>
+  </product_highlights>
+  <quantity>3</quantity>
+  <warranty><![CDATA[24 months]]></warranty>
+</item>
+
+<item>
+  <id><![CDATA[059fab18-9197-36a0-8e0a-76671a017d99]]></id>
+  <title><![CDATA[Optio cumque laboriosam aut ipsam nihil voluptatem.]]></title>
+  <description><![CDATA[Voluptate doloremque quas aut.]]></description>
+  <link><![CDATA[http://rutherford.net/sequi-ipsam-nihil-rerum-omnis.html]]></link>
+  <image_link><![CDATA[https://lorempixel.com/640/480/?68139]]></image_link>
+  <mobile_link><![CDATA[http://www.rutherford.biz/repellat-illo-quidem-nemo-numquam-et-aspernatur-repellendus]]></mobile_link>
+  <additional_image_links>
+    <entry><![CDATA[https://lorempixel.com/640/480/?41865]]></entry>
+    <entry><![CDATA[https://lorempixel.com/640/480/?54317]]></entry>
+    <entry><![CDATA[https://lorempixel.com/640/480/?98335]]></entry>
+    <entry><![CDATA[https://lorempixel.com/640/480/?98792]]></entry>
+  </additional_image_links>
+  <availability><![CDATA[in_stock]]></availability>
+  <availability_date><![CDATA[2007-01-11T11:06:45+01:00]]></availability_date>
+  <currency><![CDATA[PLN]]></currency>
+  <cost_of_goods_sold>10.21</cost_of_goods_sold>
+  <expiration_date><![CDATA[2015-11-18T15:49:18+01:00]]></expiration_date>
+  <price>11.01</price>
+  <sale_price>9.02</sale_price>
+  <sale_price_effective_date_start><![CDATA[1992-07-29T05:44:02+02:00]]></sale_price_effective_date_start>
+  <sale_price_effective_date_end><![CDATA[1974-11-11T23:21:00+01:00]]></sale_price_effective_date_end>
+  <unit_pricing_measure><![CDATA[750 ml]]></unit_pricing_measure>
+  <unit_pricing_base_measure><![CDATA[1 ml]]></unit_pricing_base_measure>
+  <product_category>
+    <google><![CDATA[2271]]></google>
+    <seznam><![CDATA[1234]]></seznam>
+    <nokaut><![CDATA[Prezenty]]></nokaut>
+    <skapiec><![CDATA[Komputery / Podzespoły komputerowe / Karty graficzne / ATI / Karty graficzne ATI 9xxx]]></skapiec>
+  </product_category>
+  <product_types>
+    <google>
+      <entry><![CDATA[Apparel]]></entry>
+      <entry><![CDATA[Accessories]]></entry>
+    </google>
+    <seznam>
+      <entry><![CDATA[Apparel]]></entry>
+      <entry><![CDATA[Dresses]]></entry>
+    </seznam>
+    <nokaut>
+      <entry><![CDATA[Dresses]]></entry>
+    </nokaut>
+    <skapiec>
+      <entry><![CDATA[Apparel]]></entry>
+      <entry><![CDATA[Dresses]]></entry>
+    </skapiec>
+  </product_types>
+  <canonical_link><![CDATA[http://www.kub.biz/asperiores-consequatur-necessitatibus-nam-sint-ex]]></canonical_link>
+  <manufacturer><![CDATA[ABC Manufacturer]]></manufacturer>
+  <brand><![CDATA[Brand XYZ]]></brand>
+  <gtin><![CDATA[3234567890126]]></gtin>
+  <mpn><![CDATA[GO12345OOGLE]]></mpn>
+  <identifier_exists>true</identifier_exists>
+  <condition><![CDATA[new]]></condition>
+  <adult>true</adult>
+  <multipack>6</multipack>
+  <bundle>false</bundle>
+  <age_group>true</age_group>
+  <color><![CDATA[black]]></color>
+  <size_types>
+    <entry><![CDATA[petite]]></entry>
+    <entry><![CDATA[maternity]]></entry>
+  </size_types>
+  <item_group_id><![CDATA[gid-12345]]></item_group_id>
+  <custom_labels>
+    <entry><![CDATA[summer]]></entry>
+    <entry><![CDATA[sale]]></entry>
+    <entry><![CDATA[test]]></entry>
+  </custom_labels>
+  <excluded_destinations>
+    <entry><![CDATA[Buy on listings]]></entry>
+    <entry><![CDATA[Local inventory ads]]></entry>
+  </excluded_destinations>
+  <included_destinations>
+    <entry><![CDATA[Shopping ads]]></entry>
+    <entry><![CDATA[Free local listings]]></entry>
+  </included_destinations>
+  <shipping>
+    <country><![CDATA[PL]]></country>
+    <region><![CDATA[Lubuskie]]></region>
+    <service><![CDATA[DPD_PICKUP]]></service>
+    <currency><![CDATA[PLN]]></currency>
+    <price>12.22</price>
+    <price_cod>15.55</price_cod>
+    <min_handling_time>1</min_handling_time>
+    <max_handling_time>4</max_handling_time>
+    <min_transit_time>2</min_transit_time>
+    <max_transit_time>5</max_transit_time>
+  </shipping>
+  <shipping_weight>3.04</shipping_weight>
+  <shipping_weight_unit><![CDATA[kg]]></shipping_weight_unit>
+  <min_handling_time>3</min_handling_time>
+  <max_handling_time>14</max_handling_time>
+  <tax>
+    <country><![CDATA[PL]]></country>
+    <region><![CDATA[Lubuskie]]></region>
+    <rate>5.0</rate>
+    <tax_ship>true</tax_ship>
+  </tax>
+  <tax_category><![CDATA[Clothes]]></tax_category>
+  <product_details>
+    <google>
+      <entry>
+        <section_name><![CDATA[Main]]></section_name>
+        <attribute_name><![CDATA[name_7437]]></attribute_name>
+        <attribute_value><![CDATA[Value #9039]]></attribute_value>
+      </entry>
+      <entry>
+        <section_name><![CDATA[Main]]></section_name>
+        <attribute_name><![CDATA[name_8284]]></attribute_name>
+        <attribute_value><![CDATA[Value #1076]]></attribute_value>
+      </entry>
+      <entry>
+        <section_name><![CDATA[Main]]></section_name>
+        <attribute_name><![CDATA[name_1194]]></attribute_name>
+        <attribute_value><![CDATA[Value #1905]]></attribute_value>
+      </entry>
+      <entry>
+        <section_name><![CDATA[Main]]></section_name>
+        <attribute_name><![CDATA[name_9706]]></attribute_name>
+        <attribute_value><![CDATA[Value #2018]]></attribute_value>
+      </entry>
+    </google>
+    <seznam>
+      <entry>
+        <section_name><![CDATA[Main]]></section_name>
+        <attribute_name><![CDATA[name_7437]]></attribute_name>
+        <attribute_value><![CDATA[Value #9039]]></attribute_value>
+      </entry>
+      <entry>
+        <section_name><![CDATA[Main]]></section_name>
+        <attribute_name><![CDATA[name_8284]]></attribute_name>
+        <attribute_value><![CDATA[Value #1076]]></attribute_value>
+      </entry>
+      <entry>
+        <section_name><![CDATA[Main]]></section_name>
+        <attribute_name><![CDATA[name_1194]]></attribute_name>
+        <attribute_value><![CDATA[Value #1905]]></attribute_value>
+      </entry>
+      <entry>
+        <section_name><![CDATA[Main]]></section_name>
+        <attribute_name><![CDATA[name_9706]]></attribute_name>
+        <attribute_value><![CDATA[Value #2018]]></attribute_value>
+      </entry>
+    </seznam>
+    <nokaut>
+      <entry>
+        <section_name><![CDATA[Main]]></section_name>
+        <attribute_name><![CDATA[name_7437]]></attribute_name>
+        <attribute_value><![CDATA[Value #9039]]></attribute_value>
+      </entry>
+      <entry>
+        <section_name><![CDATA[Main]]></section_name>
+        <attribute_name><![CDATA[name_8284]]></attribute_name>
+        <attribute_value><![CDATA[Value #1076]]></attribute_value>
+      </entry>
+      <entry>
+        <section_name><![CDATA[Main]]></section_name>
+        <attribute_name><![CDATA[name_1194]]></attribute_name>
+        <attribute_value><![CDATA[Value #1905]]></attribute_value>
+      </entry>
+      <entry>
+        <section_name><![CDATA[Main]]></section_name>
+        <attribute_name><![CDATA[name_9706]]></attribute_name>
+        <attribute_value><![CDATA[Value #2018]]></attribute_value>
+      </entry>
+    </nokaut>
+    <skapiec>
+      <entry>
+        <section_name><![CDATA[Main]]></section_name>
+        <attribute_name><![CDATA[name_7437]]></attribute_name>
+        <attribute_value><![CDATA[Value #9039]]></attribute_value>
+      </entry>
+      <entry>
+        <section_name><![CDATA[Main]]></section_name>
+        <attribute_name><![CDATA[name_8284]]></attribute_name>
+        <attribute_value><![CDATA[Value #1076]]></attribute_value>
+      </entry>
+      <entry>
+        <section_name><![CDATA[Main]]></section_name>
+        <attribute_name><![CDATA[name_1194]]></attribute_name>
+        <attribute_value><![CDATA[Value #1905]]></attribute_value>
+      </entry>
+      <entry>
+        <section_name><![CDATA[Main]]></section_name>
+        <attribute_name><![CDATA[name_9706]]></attribute_name>
+        <attribute_value><![CDATA[Value #2018]]></attribute_value>
+      </entry>
+    </skapiec>
+  </product_details>
+  <shopping_ads_excluded_country>
+    <entry><![CDATA[CH]]></entry>
+    <entry><![CDATA[AT]]></entry>
+  </shopping_ads_excluded_country>
+  <ships_from_country><![CDATA[PL]]></ships_from_country>
+  <product_highlights>
+    <entry><![CDATA[Aliquam ut qui iste facilis eum aut.]]></entry>
+    <entry><![CDATA[Sunt voluptate aut libero.]]></entry>
+    <entry><![CDATA[Atque sapiente asperiores ea.]]></entry>
+  </product_highlights>
+  <quantity>3</quantity>
+  <warranty><![CDATA[24 months]]></warranty>
+</item>
+</results>

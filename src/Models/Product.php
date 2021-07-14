@@ -110,9 +110,10 @@ class Product implements ProductSerializer
     private $productCategory;
 
     /**
-     * @Serializer\Type("array<string>")
+     * @Serializer\Type("array<string,array<string>>")
+     * @Serializer\XmlKeyValuePairs
      */
-    private $productTypes;   
+    private $productTypes;
 
     /**
      * @Serializer\Type("string")
@@ -296,7 +297,8 @@ class Product implements ProductSerializer
     private $taxCategory;
 
     /**
-     * @Serializer\Type("array<Sylapi\Feeds\Models\ProductDetail>")
+     * @Serializer\Type("array<string,array<Sylapi\Feeds\Models\ProductDetail>>")
+     * @Serializer\XmlKeyValuePairs
      */
     private $productDetails;
 
@@ -316,7 +318,17 @@ class Product implements ProductSerializer
      * @Serializer\Type("array<string>")
      */
     private $productHighlights;
+
+    /**
+     * @Serializer\Type("integer")
+     */
+    private $quantity;
     
+    /**
+     * @Serializer\Type("string")
+     */
+    private $warranty;
+
 
     /**
      * Get the value of id
@@ -726,6 +738,18 @@ class Product implements ProductSerializer
     public function setProductTypes($productTypes)
     {
         $this->productTypes = $productTypes;
+
+        return $this;
+    }
+
+    /**
+     * Add the value of productTypes
+     *
+     * @return  self
+     */ 
+    public function addProductTypes($productTypesClass, $productTypes)
+    {
+        $this->productTypes[$productTypesClass] = $productTypes;
 
         return $this;
     }
@@ -1472,6 +1496,18 @@ class Product implements ProductSerializer
     }    
 
     /**
+     * Add the value of productDetails
+     *
+     * @return  self
+     */ 
+    public function addproductDetails($productDetailsClass, $productDetails)
+    {
+        $this->productTypes[$productDetailsClass] = $productDetails;
+
+        return $this;
+    }
+
+    /**
      * Get the value of shoppingAdsExcludedCountry
      */ 
     public function getShoppingAdsExcludedCountry()
@@ -1531,8 +1567,49 @@ class Product implements ProductSerializer
         return $this;
     }
 
+    /**
+     * Get the value of quantity
+     */ 
+    public function getQuantity()
+    {
+        return $this->quantity;
+    }
+
+    /**
+     * Set the value of quantity
+     *
+     * @return  self
+     */ 
+    public function setQuantity($quantity)
+    {
+        $this->quantity = $quantity;
+
+        return $this;
+    }
+
+        /**
+     * Get the value of warranty
+     */ 
+    public function getWarranty()
+    {
+        return $this->warranty;
+    }
+
+    /**
+     * Set the value of warranty
+     *
+     * @return  self
+     */ 
+    public function setWarranty($warranty)
+    {
+        $this->warranty = $warranty;
+
+        return $this;
+    }
+
     public function make(\Sylapi\Feeds\Models\Product $product): self
     {
         return $product;
     }
+
 }

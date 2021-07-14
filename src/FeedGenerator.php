@@ -2,9 +2,10 @@
 
 namespace Sylapi\Feeds;
 use JMS\Serializer\Expression\ExpressionEvaluator;
+use Sylapi\Feeds\Contracts\ProductSerializer;
 use Symfony\Component\ExpressionLanguage\ExpressionLanguage;
 
-class FeedCreator
+class FeedGenerator
 {
     const DEFAULT_STORAGE_PATH = 'storage/';
 
@@ -44,7 +45,7 @@ class FeedCreator
     /**
      * Get the value of feed
      */ 
-    public function getFeed(): ?Contracts\Feed
+    public function getFeed(): Contracts\Feed
     {
         return $this->feed;
     }
@@ -61,7 +62,7 @@ class FeedCreator
         return $this;
     }
 
-    private function getSerializer(): \JMS\Serializer\Serializer
+    public function getSerializer(): \JMS\Serializer\Serializer
     {
         return $this->serializer;
     }
@@ -81,34 +82,52 @@ class FeedCreator
         $this->createFile($this->filePath());
         return $this;
     }
-    
+
+    public function transformProduct(Models\Product $product): ProductSerializer 
+    {
+        return ($this->getFeed()->getProductInstance())->make($product);
+    }
+
+    public function productXML(ProductSerializer $product): string
+    {
+        $serializer = $this->getSerializer();
+
+        return str_replace(
+            '<?xml version="1.0" encoding="UTF-8"?>', 
+            '', 
+            $serializer->serialize($product, 'xml')
+        );
+    }
+
+    public function createDOMFragment(string $contentXML): \DOMDocumentFragment
+    {
+        $doc = $this->getFeed()->getDocument();
+        $f = $doc->createDocumentFragment();
+        $f->appendXML($contentXML);
+        return $f;
+    }
+
+    public function appendProductToMainXMLElement( \DOMDocumentFragment $productFragment ): \DOMElement
+    {
+        $mainXMLElement = $this->getFeed()->getMainXmlElement();
+        $mainXMLElement->appendChild($productFragment);
+        return $mainXMLElement;
+    }
 
     public function appendProduct(Models\Product $product) :self
     {
-        $serializer = $this->getSerializer();
-        $item = ($this->getFeed()->getProductInstance())->make($product);
-
-        $content = str_replace(
-            '<?xml version="1.0" encoding="UTF-8"?>', 
-            '', 
-            $serializer->serialize($item, 'xml')
-        );
-        
-        $doc = $this->getFeed()->getDocument();
-        $f = $doc->createDocumentFragment();
-        $f->appendXML($content);
-        $mainXMLElement = $this->getFeed()->getMainXmlElement();
-        $mainXMLElement->appendChild($f);
-        $this->getFeed()->setMainXmlElement($mainXMLElement);
-    
+        $this->appendProductToMainXMLElement(
+                $this->createDOMFragment(
+                        $this->productXML($this->transformProduct($product))
+                    )
+                );
+       
         return $this;
     }
 
     public function save()
     {
         $doc = $this->getFeed()->getDocument();
-        $doc->appendChild($this->getFeed()->getMainXmlElement());
-        
         return $doc->save($this->filePath());
     }
 }

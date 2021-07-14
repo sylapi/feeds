@@ -27,11 +27,6 @@ class Shipping
     /**
      * @Serializer\Type("string")
      */
-    private $courier;    
-
-    /**
-     * @Serializer\Type("string")
-     */
     private $currency;
 
     /**
@@ -123,26 +118,6 @@ class Shipping
 
         return $this;
     }
-
-    /**
-     * Get the value of courier
-     */ 
-    public function getCourier()
-    {
-        return $this->courier;
-    }
-
-    /**
-     * Set the value of courier
-     *
-     * @return  self
-     */ 
-    public function setCourier($courier)
-    {
-        $this->courier = $courier;
-
-        return $this;
-    }    
 
     /**
      * Get the value of currency

@@ -15,8 +15,7 @@
         "rakit/validation": "^1.4",
         "jms/serializer": "^3.12",
         "prewk/xml-string-streamer": "^1.1",
-        "symfony/expression-language": "^5.3",
-        "fzaninotto/faker": "dev-master"
+        "symfony/expression-language": "^5.3"
     },
     "require-dev": {
         "phpunit/phpunit": "^9.5",
