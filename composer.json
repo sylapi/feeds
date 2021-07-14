@@ -1,7 +1,8 @@
 {
-    "name": "sylapi/feed",
+    "name": "sylapi/feeds",
     "type": "library",
     "description": "Merchant feeds",
+    "homepage" : "https://github.com/sylapi/feeds.git",
     "keywords": [
         "merchant",
         "feeds"
