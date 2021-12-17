@@ -329,6 +329,11 @@ class Product implements ProductSerializer
      */
     private $warranty;
 
+     /**
+     * @Serializer\Type("array<string,string>")
+     * @Serializer\XmlKeyValuePairs
+     */
+    private $customAttributes;
 
     /**
      * Get the value of id
@@ -1607,9 +1612,30 @@ class Product implements ProductSerializer
         return $this;
     }
 
+    /**
+     * Get the value of customAttributes
+     */ 
+    public function getCustomAttributes()
+    {
+        return $this->customAttributes;
+    }
+
+    /**
+     * Set the value of customAttributes
+     *
+     * @return  self
+     */ 
+    public function setCustomAttributes($customAttributes)
+    {
+        $this->customAttributes = $customAttributes;
+
+        return $this;
+    }
+
     public function make(\Sylapi\Feeds\Models\Product $product): self
     {
         return $product;
     }
+
 
 }
