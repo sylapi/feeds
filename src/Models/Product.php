@@ -78,8 +78,17 @@ class Product implements ProductSerializer
     /**
      * @Serializer\Type("double")
      */
-    private $salePrice;
+    private $netPrice;
 
+    /**
+     * @Serializer\Type("double")
+     */
+    private $salePrice;
+    
+    /**
+     * @Serializer\Type("double")
+     */
+    private $netSalePrice;     
 
     /**
      * @Serializer\Type("DateTime")
@@ -596,6 +605,27 @@ class Product implements ProductSerializer
     }
 
     /**
+    * Get the value of net price
+    */ 
+   public function getNetPrice()
+   {
+       return $this->netPrice;
+   }
+
+   /**
+    * Set the value of net price
+    *
+    * @return  self
+    */ 
+   public function setNetPrice($netPrice)
+   {
+       $this->netPrice = $netPrice;
+
+       return $this;
+   }
+
+
+    /**
      * Get the value of salePrice
      */ 
     public function getSalePrice()
@@ -614,6 +644,26 @@ class Product implements ProductSerializer
 
         return $this;
     }
+
+    /**
+     * Get the value of salePrice
+     */ 
+    public function getNetSalePrice()
+    {
+        return $this->netSalePrice;
+    }
+
+    /**
+     * Set the value of salePrice
+     *
+     * @return  self
+     */ 
+    public function setNetSalePrice($netSalePrice)
+    {
+        $this->netSalePrice = $netSalePrice;
+
+        return $this;
+    }    
 
     /**
      * Get the value of salePriceEffectiveDateStart
